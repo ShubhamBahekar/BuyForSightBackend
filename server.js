@@ -6,9 +6,8 @@ const customResponses = require('./app/helpers/customResponses');
 const app = express();
 
 app.use(express.json());
-app.use(apiRoutes);
 app.use(customResponses);
-
+app.use(apiRoutes);
 
 
 app.listen(PORT, () => {
