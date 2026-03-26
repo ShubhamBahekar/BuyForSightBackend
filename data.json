@@ -20,10 +20,25 @@
     "role": "User",
     "createdAt": "2024-03-21T11:30:00Z"
   },
+  
   {
     "id": 4,
+    "name": "Shubhangi Mishra",
+    "email": "shubhangi04@gmail.com",
+    "role": "User",
+    "createdAt": "2024-03-21T11:30:00Z"
+  },
+  {
+    "id": 5,
     "name": "Ravi Singh",
     "email": "ravi@gmail.com",
+    "role": "User",
+    "createdAt": "2024-03-21T11:30:00Z"
+  },
+  {
+    "id": 6,
+    "name": "Ravina Pal",
+    "email": "ravina005@gmail.com",
     "role": "User",
     "createdAt": "2024-03-21T11:30:00Z"
   }
