@@ -2,28 +2,28 @@
   {
     "id": 1,
     "name": "Bob Smith",
-    "email": "bob@example.com",
+    "email": "bob@gmail.com",
     "role": "User",
     "createdAt": "2024-03-21T11:30:00Z"
   },
   {
     "id": 2,
     "name": "Diana Prince",
-    "email": "diana@example.com",
+    "email": "diana@gmail.com",
     "role": "User",
     "createdAt": "2024-03-22T14:45:00Z"
   },
   {
     "id": 3,
     "name": "Shubham Bahekar",
-    "email": "shubham@02.com",
+    "email": "shubham02@gmail.com",
     "role": "User",
     "createdAt": "2024-03-21T11:30:00Z"
   },
   {
     "id": 4,
     "name": "Ravi Singh",
-    "email": "ravi@example.com",
+    "email": "ravi@gmail.com",
     "role": "User",
     "createdAt": "2024-03-21T11:30:00Z"
   }
